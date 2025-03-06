@@ -20,7 +20,7 @@ This project is an automated code review tool that leverages AI to provide insig
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ai-powered-code-reviewer.git
+   git clone https://github.com/livebcdev0603/ai-powered-code-reviewer.git
    cd ai-powered-code-reviewer
    ```
 
@@ -100,8 +100,3 @@ To run the tests, use the following command:
 pytest tests/
 ```
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
