@@ -20,7 +20,7 @@ This project is an automated code review tool that leverages AI to provide insig
 
 1. Clone the repository:
    ```
-   git clone https://github.com/livebcdev0603/ai-powered-code-reviewer.git
+   git clone https://github.com/superalive1005/ai-powered-code-reviewer.git
    cd ai-powered-code-reviewer
    ```
 
